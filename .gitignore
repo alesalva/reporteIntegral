@@ -9,6 +9,13 @@
 
 .idea/
 
+.metadata/
+
+.~lock.NameArchive.xls#
+
+NameArchive
+
+
 target/
 
 # Mobile Tools for Java (J2ME)
